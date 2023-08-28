@@ -1,7 +1,8 @@
 ![maxresdefault](https://github.com/JenineEssam/JenineEssam/assets/142109302/9e9c6c93-b2ad-4e26-a437-edca91dac888)
 <h1 align="center">Hi 👋, I'm Jenine Essam</h1>
 <h3 align="center">A Front-end developer, software engineering student.</h3>
-<img align="right" alt="[Cat Working on the laptop" src="https://gifdb.com/images/high/bongo-cat-typing-f393t7cevkw08k3q.gif" width="210" />
+
+<img align="right" src="https://github.com/JenineEssam/JenineEssam/assets/142109302/4ce4f36b-2a95-460e-a1e3-f21441e600a5" width="300" />
 
   
   
