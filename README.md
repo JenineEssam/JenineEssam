@@ -12,10 +12,6 @@
       padding: 0;
     }
 
-    h1, h3 {
-      color: #333;
-    }
-
     .header {
       background-image: url('https://github.com/JenineEssam/JenineEssam/assets/142109302/9e9c6c93-b2ad-4e26-a437-edca91dac888');
       background-size: cover;
@@ -23,22 +19,17 @@
       padding: 50px;
       text-align: center;
       color: white;
-      margin-bottom: 20px;
     }
 
     .content {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      max-width: 1000px;
-      margin: 0 auto;
       padding: 20px;
+      text-align: center;
     }
 
     .about-me {
-      width: 45%;
-      padding: 20px;
       background-color: #fff;
+      padding: 20px;
+      margin-top: 20px;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
@@ -52,38 +43,18 @@
     }
 
     .connect-with-me {
-      width: 45%;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .connect-with-me h3 {
-      color: #333;
-    }
-
-    .connect-with-me p {
-      color: #555;
+      margin-top: 20px;
     }
 
     .connect-with-me img {
+      width: 40px;
+      height: 40px;
+      margin: 0 10px;
       transition: transform 0.3s ease-in-out;
     }
 
     .connect-with-me img:hover {
       transform: scale(1.2);
-    }
-
-    @media(max-width: 768px) {
-      .content {
-        flex-direction: column;
-      }
-
-      .about-me, .connect-with-me {
-        width: 100%;
-        margin-bottom: 20px;
-      }
     }
   </style>
 </head>
@@ -102,7 +73,11 @@
 
   <div class="connect-with-me">
     <h3>Connect with me:</h3>
-    <p><a href="https://linkedin.com/in/jenine essam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenine essam" height="30" width="40"></a></p>
+    <p>
+      <a href="https://linkedin.com/in/jenine essam" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenine essam">
+      </a>
+    </p>
   </div>
 </div>
 
